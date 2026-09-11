@@ -4,6 +4,27 @@
 - Fret not!
 - Contribute to your very first open-source project in this beginner-friendly code repository!
 
+<table >
+    <thead align="center">
+        <tr border: 1px;>
+            <td><b>🌟 Stars</b></td>
+            <td><b>🍴 Forks</b></td>
+            <td><b>🐛 Issues</b></td>
+            <td><b>🔔 Open PRs</b></td>
+            <td><b>🔕 Closed PRs</b></td>
+        </tr>
+     </thead>
+    <tbody>
+         <tr>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/yfosp/start-here?style=flat&logo=github"/></td>
+             <td><img alt="Forks" src="https://img.shields.io/github/forks/yfosp/start-here?style=flat&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/yfosp/start-here?style=flat&logo=github"/></td>
+            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/yfosp/start-here?style=flat&logo=github"/></td>
+           <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/yfosp/start-here?style=flat&color=critical&logo=github"/></td>
+        </tr>
+    </tbody>
+</table>
+
 ## Our Mission
 
 Our mission is to provide a safe space to support everyone on their journey to become software developers 👨‍💻
@@ -11,7 +32,7 @@ Our mission is to provide a safe space to support everyone on their journey to b
 ## How to contribute
 
 1. Fork this code repository.
-2. Add your Github username and Github profile link in the CONTRIBUTORS.md file.
+2. Add your Github username and Github profile link **at the bottom of the list** in the CONTRIBUTORS.md file (DO NOT modify other people's entries).
 3. Submit a PR.
 4. Wait for your PR to be reviewed, approved & merged by an admin/owner.
 5. If there are issues with your PR, please revise them in accordance to the comments made by the admins.
@@ -28,8 +49,8 @@ Our mission is to provide a safe space to support everyone on their journey to b
 4. After joining this organization, please do the following:
    - Star this repo
    - Submit a PR containing your name & GitHub profile link in CONTRIBUTORS.md (if you haven't done so yet)
-   - Next, click [here](https://github.com/Your-First-Open-Source-Project)
-   - Then click on the 'People' tab
+   - Next, click [here](https://github.com/orgs/yfosp/people)
+   - Find your name in the members list
    - Next, toggle your organization visibility from 'Private' to 'Public'
 5. Admins/Owners of the organization are free to invite any other GitHub users to the organization.
 
@@ -44,6 +65,12 @@ Our mission is to provide a safe space to support everyone on their journey to b
 >
 > - [Community Website repo 🌐](https://github.com/Your-First-Open-Source-Project/main-website)
 > - [AWS Educational Resources repo ☁️](https://github.com/Your-First-Open-Source-Project/aws-resources)
+
+## Our Contributors ❤️
+
+<a href="https://github.com/yfosp/start-here/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=yfosp/start-here" />
+</a>
 
 ## Future plans
 
